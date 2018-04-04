@@ -7,7 +7,7 @@ body {
 }
 
 .panel {
-  background-color: #504A4A;
+  background-color: rgb(44, 41, 41);
   border: solid 1px white;
   text-align: center;
   height: 450px; 
@@ -19,6 +19,14 @@ body {
 
 .heroImg {
   border-radius: 100%;
+}
+
+.female {
+  border: 5px solid pink;
+}
+
+.male {
+  border: 5px solid blue;
 }
 
 /* h2 {
