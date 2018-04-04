@@ -2,6 +2,46 @@ body {
   background-color: #504A4A;
 }
 
-h2 {
-  color: white;
+.panel > .panel-heading {
+  background-color: orange;
 }
+
+.panel {
+  background-color: #504A4A;
+  border: solid 1px white;
+  text-align: center;
+  height: 450px; 
+}
+
+.heroDesc {
+  color: rgb(221, 179, 101);
+}
+
+.heroImg {
+  border-radius: 100%;
+}
+
+/* h2 {
+  color: white;
+} */
+
+/* #hero-holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+} */
+
+/* p {
+  color: white;
+} */
+
+/* .heroes {
+  margin: 1%;
+  padding: 2%;
+  width: 400px;
+  border: 2px solid rgb(14, 5, 12);
+  text-align: center;
+  background-color:rgb(46, 39, 39);
+  border-radius: 10px;
+  border-width: medium thick;
+} */
